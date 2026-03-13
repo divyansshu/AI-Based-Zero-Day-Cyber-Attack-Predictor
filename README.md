@@ -1,2 +1,5 @@
-# AI-Based-Zero-Day-Cyber-Attack-Predictor
-# Project in progress...
+# AI-Based Zero-Day Cyber Attack Predictor
+
+Early-stage project exploring ML-based detection/prediction of suspicious/novel (potential zero-day) cyber attack traffic using network-flow features.
+
+
